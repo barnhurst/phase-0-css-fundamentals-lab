@@ -1,5 +1,16 @@
-body {
+h1 {
+  
+}
+body { 
+  
+
+ text-align: center;
+  
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+#details {overflow: auto; padding: 15px;}
+#details section {float:left; width: 300px;}
+#details section {background-color: red;}
